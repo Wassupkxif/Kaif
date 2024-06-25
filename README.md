@@ -3,12 +3,12 @@
 
 
 # Description
-Flower code tiktok trend 
+Flower code 
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
+Responsive Web -- Kaif's Flower file css --> style.css
 
 # Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Flower Code : kaif
+- Index Code : kaif
 
-Thanks to codepan and mdusmanansari
+Thanks to kaif
