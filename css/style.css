@@ -80,7 +80,7 @@ p span:before {
 
 @keyframes gerak {
     0% {
-        content: 'Here's A Flower';
+        content: 'Heres A Flower';
     }
     50% {
         content: 'For my sweetie pie ';
